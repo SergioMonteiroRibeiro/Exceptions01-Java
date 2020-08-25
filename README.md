@@ -1,4 +1,4 @@
-Exercício do curdo de Java do professor Nélio Alves, Udemy.
+Exercício do curso de Java do professor Nélio Alves, Udemy.
 
 A proposta é tratar de exceções, fazendo-as de modo muito ruim, ruim e bom.
 O exercício consiste em cadastrar um tempo de estadia em um hotel, seguindo regras como:
